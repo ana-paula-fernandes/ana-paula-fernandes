@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil <Ana Paula Fernandes> 😁
+## Bem-vindo(a) ao meu perfil *Ana Paula Fernandes* 😁
  
  <div>
    <a href="https://github.com/ana-paula-fernandes">
