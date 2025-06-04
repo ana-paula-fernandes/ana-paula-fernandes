@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil_*Ana Paula Fernandes* 😁
+## Olá! Eu sou a *Ana Paula* 😁
  
  <div>
    <a href="https://github.com/ana-paula-fernandes">
@@ -16,7 +16,7 @@
  
 <br>
  
-### Pra contato é só clicar nos botões abaixo!
+### Meus contatos
  
 <div> 
    <a href="https://instagram.com/paulinha_fer85" target"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
