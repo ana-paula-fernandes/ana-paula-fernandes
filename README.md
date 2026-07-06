@@ -3,7 +3,7 @@
 
 <br>
  
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-paula-fernandes&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/ana-paula-fernandes) [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-paula-fernandes&layout=compact&langs_count=6&theme=dracula)](https://github.com/ana-paula-fernandes)
+[![GitHub stats - temporarily unavailable](https://img.shields.io/badge/GitHub_stats-temporarily_unavailable-lightgrey)](https://github.com/ana-paula-fernandes) [![Top languages - temporarily unavailable](https://img.shields.io/badge/Top_languages-temporarily_unavailable-lightgrey)](https://github.com/ana-paula-fernandes)
 
 <br>
 
