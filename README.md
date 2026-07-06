@@ -1,5 +1,8 @@
-## Olá! Eu sou a *Ana Paula* 😁
-|Desenvolvedora Front-end e estudante de Automação IA|
+## Olá!👋 Eu sou a *Ana Paula*
+🚀|Desenvolvedora Junior Front-end e estudante de Automação IA|
+<br>
+ <img align="center" width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f359c5a6-6922-4d1a-b87a-0c043eff9d95" /> Brasil 
+
 
 <br>
  
@@ -15,6 +18,8 @@
   <img align="center" alt="JavaScript" height="30" width="118" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="React" height="30" width="80" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Tailwind" height="30" width="118" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+ <img align="center" alt="Tailwind" height="30" width="110" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript">
+ <img align="center" alt="Tailwind" height="30" width="110" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs">
 </div>
  
 <br>
@@ -50,3 +55,4 @@
   <a href="mailto:fernandes.anapaula85@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/ana-paula-fernandes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
+
