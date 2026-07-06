@@ -5,10 +5,8 @@
  
 <div>
    <a href="https://github.com/ana-paula-fernandes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-paula-fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
-   <a href="https://github.com/ana-paula-fernandes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-paula-fernandes&layout=compact&langs_count=6&theme=tokyonight"/>
-   </a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-paula-fernandes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-paula-fernandes&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <br>
