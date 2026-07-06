@@ -3,11 +3,6 @@
 <br>
  <img align="center" width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f359c5a6-6922-4d1a-b87a-0c043eff9d95" /> Brasil 
 
-
-<br>
- 
-[![GitHub stats - temporarily unavailable](https://img.shields.io/badge/GitHub_stats-temporarily_unavailable-lightgrey)](https://github.com/ana-paula-fernandes) [![Top languages - temporarily unavailable](https://img.shields.io/badge/Top_languages-temporarily_unavailable-lightgrey)](https://github.com/ana-paula-fernandes)
-
 <br>
 
 ### 🌐 *Tecnologias que mais utilizo no meu dia*
@@ -55,4 +50,10 @@
   <a href="mailto:fernandes.anapaula85@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/ana-paula-fernandes" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ana-paula-fernandes/ana-paula-fernandes/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ana-paula-fernandes/ana-paula-fernandes/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ana-paula-fernandes/ana-paula-fernandes/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
